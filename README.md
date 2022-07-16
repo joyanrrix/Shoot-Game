@@ -2,7 +2,7 @@
 
 #### 预览
 
-![capture](F:\VisualStudio\Shoot Game\capture.png)
+![capture](capture.png)
 
 #### 使用方法
 
